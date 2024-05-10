@@ -1,24 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes, Redirect } from 'react-router-dom';
+import HomePage from './LoginPage';
+import LoginPage from './LoginPage';
+import QuizComponent from './Quiz';
+import Signup from './Signup';
+import { useState } from 'react';
+import Scoreboard from './ScoreBoard';
+const App = () => {
 
-function App() {
+  const [userData, setUserData] = useState(null); // Example state for user data
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<LoginPage setUserData={setUserData}/>} />
+        <Route path="/quiz" element={<QuizComponent userData={userData} />} />
+        <Route path="/signup" element={<Signup/>} />
+        <Route path="/admin" element={<Scoreboard/>} />
+    
+    
+      </Routes>
+
+    </Router>
   );
 }
 
