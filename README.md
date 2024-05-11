@@ -45,3 +45,35 @@ User Collection:
 
 ![Alt Text](Images/Screenshot%20(276).png)
 
+
+User Logging in :
+![Alt Text](Images/Screenshot%20(288).png)
+
+Questions:
+![Alt Text](Images/Screenshot%20(277).png)
+
+Starting Quiz:
+
+![Alt Text](Images/Screenshot%20(279).png)
+
+![Alt Text](Images/Screenshot%20(280).png)
+
+![Alt Text](Images/Screenshot%20(281).png)
+
+Final Results on quiz completion:
+![Alt Text](Images/Screenshot%20(282).png)
+
+Save the score:
+![Alt Text](Images/Screenshot%20(283).png)
+
+Reflected in Databse:
+![Alt Text](Images/Screenshot%20(284).png)
+
+Admin Login:
+
+![Alt Text](Images/Screenshot%20(286).png)
+
+
+Admin viewing User's scores
+
+![Alt Text](Images/Screenshot%20(285).png)
