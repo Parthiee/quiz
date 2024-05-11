@@ -35,3 +35,13 @@ Access the Application:
 
 After starting the client, the full-stack online quiz application will open in your web browser.
 You can now register, login, and explore the various features of the application, including taking quizzes and viewing scores.
+
+
+
+
+Screenshots of how it is done:
+
+User Collection:
+
+![Alt Text]([Image URL](https://github.com/Parthiee/quiz/blob/master/Images/Screenshot%20(276).png))
+
