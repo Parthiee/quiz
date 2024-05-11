@@ -13,7 +13,7 @@ Run the Backend Server:
 Once you're inside the backend folder, start the server by running the following command:
 Copy code
 
-node server.jsT
+node server.js
 
 This command will start the backend server, allowing it to handle requests from the frontend client.
 
