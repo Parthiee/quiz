@@ -43,5 +43,5 @@ Screenshots of how it is done:
 
 User Collection:
 
-![Alt Text]([Image URL](https://github.com/Parthiee/quiz/blob/master/Images/Screenshot%20(276).png))
+![Alt Text](Images/Screenshot%20(276).png)
 
