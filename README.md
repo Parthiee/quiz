@@ -6,13 +6,14 @@ Navigate to the Backend Folder:
 
 Open your terminal or command prompt.
 Use the cd command to navigate into the backend folder of the extracted project.
-**cd backend**
+cd backend
 
 Run the Backend Server:
 
 Once you're inside the backend folder, start the server by running the following command:
 Copy code
-**node server.js**T
+
+node server.jsT
 
 This command will start the backend server, allowing it to handle requests from the frontend client.
 
@@ -25,7 +26,8 @@ In the new terminal window, navigate to the home folder of the project where you
 Start the Client:
 
 Once you're in the project's home folder, start the client by running the following command:
-**npm start**
+
+npm start
 
 This command will start the frontend client, launching the application in your default web browser.
 
